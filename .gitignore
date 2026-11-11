@@ -1,0 +1,12 @@
+# Secretos y credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Respaldos locales (el .zip de entrega se arma aparte)
+respaldo/
+*.zip
