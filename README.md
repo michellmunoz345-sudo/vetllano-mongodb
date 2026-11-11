@@ -44,7 +44,6 @@ Después de instalar, abre una **PowerShell nueva** para que reconozca los coman
 ```
 proyecto-veterinaria/
 ├── README.md                 Este archivo
-├── CLAUDE.md                 Reglas de trabajo y modelo aprobado
 ├── .env.example              Plantilla de variables de entorno (sin contraseñas reales)
 ├── .gitignore                Excluye .env, .venv, respaldo/ y .zip
 ├── datos_iniciales.js        Crea colecciones con $jsonSchema e inserta los datos
