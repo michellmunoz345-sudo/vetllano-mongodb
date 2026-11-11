@@ -10,3 +10,6 @@ venv/
 # Respaldos locales (el .zip de entrega se arma aparte)
 respaldo/
 *.zip
+
+# Prompt de trabajo (no se publica)
+prompt_claude_code_veterinaria.md
